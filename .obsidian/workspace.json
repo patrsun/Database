@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "3ce4aa2257454a4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4ee7a7cd8e80ea89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5f3a24dbc90caff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300 Templates/Core Zettel Idea.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "72ecc22234654d53",
+    "type": "split",
+    "children": [
+      {
+        "id": "db50bf3f2f736f93",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a44b46b08cb5427",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "011602d483ac30ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "361f5ba2f64817c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "right": {
+    "id": "a4dae222d4c3fd20",
+    "type": "split",
+    "children": [
+      {
+        "id": "21fff628041a607c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7655a593de697d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "300 Templates/Core Zettel Idea.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6305089d8aaff97",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "300 Templates/Core Zettel Idea.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "74ae3323ecbc5f85",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4585aa9b265cbfbb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "300 Templates/Core Zettel Idea.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9a44b46b08cb5427",
+  "lastOpenFiles": [
+    "300 Templates/MOC.md",
+    "300 Templates/Core Zettel Idea.md",
+    "300 Templates/Untitled.md",
+    "000 Zettelkasten/new note.md",
+    "000 Zettelkasten/oepwowef.md",
+    "000 Zettelkasten/foafpa.md",
+    "300 Templates",
+    "200 Attachments",
+    "100 References",
+    "000 Zettelkasten/Untitled",
+    "000 Zettelkasten"
+  ]
+}
