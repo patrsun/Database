@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300 Templates/Core Zettel Idea.md",
+                "file": "000 Zettelkasten/init.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300 Templates/Core Zettel Idea.md",
+                "file": "000 Zettelkasten/init.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "300 Templates/Core Zettel Idea.md",
+                "file": "000 Zettelkasten/init.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300 Templates/Core Zettel Idea.md"
+                "file": "000 Zettelkasten/init.md"
               }
             }
           }
@@ -148,8 +148,11 @@
   },
   "active": "9a44b46b08cb5427",
   "lastOpenFiles": [
-    "300 Templates/MOC.md",
+    "100 References/init.md",
+    "000 Zettelkasten/init.md",
+    "200 Attachments/init.md",
     "300 Templates/Core Zettel Idea.md",
+    "300 Templates/MOC.md",
     "300 Templates/Untitled.md",
     "000 Zettelkasten/new note.md",
     "000 Zettelkasten/oepwowef.md",
